@@ -1,0 +1,9 @@
+.App-Box {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+}
+.App-Icon {
+    position: absolute;
+    font-size: 100px;
+}
